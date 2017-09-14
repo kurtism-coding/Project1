@@ -1,0 +1,11 @@
+nav {
+    text-align: center;
+    word-spacing: 60px;
+    text-decoration: none;
+    border:10px outset grey;
+    background: mediumblue;
+    font-size: 1em;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
