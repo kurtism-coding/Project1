@@ -37,3 +37,30 @@ body {
     background-color: darkorange;
     color: whitesmoke;
 }
+
+.columns {
+    display:flex;
+
+}
+
+.column1 {
+    background-color: whitesmoke;
+    width: 50%;
+    border: 5px inset mediumblue;
+    margin: 10px;
+
+
+
+}
+.column2 {
+    background-color: whitesmoke;
+    width: 50%;
+    border: 5px inset mediumblue;
+    margin: 10px;
+
+}
+
+.maintitle{
+    background-color: darkorange;
+
+}
