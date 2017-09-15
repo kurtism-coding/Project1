@@ -1,3 +1,13 @@
+* {
+    font-family: 'Slabo 27px', serif;
+
+}
+
+.logo{
+
+
+}
+
 nav {
     text-align: center;
     word-spacing: 60px;
@@ -9,3 +19,100 @@ nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
+
+}
+
+.links {
+    text-decoration: none;
+    border: 2px solid lightslategray;
+    background: whitesmoke;
+    color:black;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    padding: 4px 10px;
+
+
+}
+
+iframe {
+    display: block;
+    margin: 15px auto 15px auto;
+    width: 50%;
+    text-align: center;
+    border: 10px solid whitesmoke ;
+
+}
+
+section {
+    background: whitesmoke;
+    overflow: auto;
+
+}
+
+body {
+    background: darkgray;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+
+}
+
+.title1{
+    display:flex;
+    justify-content: center;
+
+}
+
+.container1 {
+    width: 75%;
+    margin: auto auto auto auto;
+
+}
+
+footer {
+
+    border-top: 5px solid white;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+.footer{
+    font-size: .8em;
+
+
+
+}
+
+.bottom{
+    text-align: center;
+    font-size: .6em;
+
+}
+
+.suggestions{
+    width:500px;
+    height:100px;
+
+}
+
+.game {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-content: space-between;
+
+
+}
+
+.titles {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    margin-left: 60px;
+}
+
+.links:hover {
+    background-color: darkorange;
+    color: whitesmoke;
+}

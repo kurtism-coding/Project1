@@ -50,7 +50,7 @@ section {
 }
 
 body {
-    background: steelblue;
+    background: darkgray;
     margin: 0;
     padding: 0;
     width: 100%;
@@ -110,4 +110,9 @@ footer {
     justify-content: space-evenly;
     width: 100%;
     margin-left: 60px;
+}
+
+.links:hover {
+    background-color: darkorange;
+    color: whitesmoke;
 }

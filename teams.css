@@ -1,0 +1,96 @@
+* {
+    font-family: 'Slabo 27px', serif;
+
+}
+
+nav {
+    text-align: center;
+    word-spacing: 60px;
+    text-decoration: none;
+    border: 10px outset grey;
+    background: mediumblue;
+    font-size: 1em;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.links {
+    text-decoration: none;
+    border: 2px solid lightslategray;
+    background: whitesmoke;
+    color: black;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    padding: 4px 10px;
+}
+
+body {
+    background: darkgray;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.links:hover {
+    background-color: darkorange;
+    color: whitesmoke;
+}
+
+section {
+    background-color: whitesmoke;
+
+}
+
+h1 {
+    border-bottom: 4px darkorange dotted;
+    width: 70%;
+    margin-left: 12px;
+    text-align: left;
+    font-size: 2.5em;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+
+
+}
+
+.logos {
+    width: 85px;
+    height: 65px;
+    margin-left: 35px;
+    margin-top: 0;
+
+}
+
+.portraits {
+    width: 55%;
+    height: 255px;
+    padding-top: 50px;
+
+}
+
+.teamlogo {
+    display:flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    width: 35%;
+    margin-left: 4%;
+    margin-top: 40px;
+
+}
+
+.teamsection {
+    display:flex;
+    flex-direction: row;
+
+
+}
+
+aside {
+    position:relative;
+    left: 50px;
+    bottom: 150px;
+}

@@ -1,0 +1,39 @@
+* {
+    font-family: 'Slabo 27px', serif;
+
+}
+
+nav {
+    text-align: center;
+    word-spacing: 60px;
+    text-decoration: none;
+    border: 10px outset grey;
+    background: mediumblue;
+    font-size: 1em;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.links {
+    text-decoration: none;
+    border: 2px solid lightslategray;
+    background: whitesmoke;
+    color: black;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    padding: 4px 10px;
+}
+
+body {
+    background: darkgray;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.links:hover {
+    background-color: darkorange;
+    color: whitesmoke;
+}
