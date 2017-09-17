@@ -37,3 +37,20 @@ body {
     background-color: darkorange;
     color: whitesmoke;
 }
+
+h1 {
+    background: whitesmoke;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    background: whitesmoke;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}

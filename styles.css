@@ -116,3 +116,17 @@ footer {
     background-color: darkorange;
     color: whitesmoke;
 }
+
+.intro{
+
+    width: 700px;
+    height: 200px;
+    border: 10px darkorange solid;
+    margin: auto;
+    margin-top: 35px;
+}
+
+.title2 {
+    letter-spacing: 3px;
+
+}

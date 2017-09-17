@@ -116,3 +116,15 @@ footer {
     background-color: darkorange;
     color: whitesmoke;
 }
+
+.maintitle {
+    background-color: darkorange;
+    padding: 10px;
+    color: whitesmoke;
+
+}
+
+.main {
+    padding: 20px;
+
+}
